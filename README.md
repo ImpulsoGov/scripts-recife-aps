@@ -24,7 +24,7 @@ Armazena scripts SQL desenvolvidos para o projeto Recife APS
 
 ## :rocket: Contexto
 
-Este repositório é dedicado à centralização de scripts SQL desenvolvidos para o projeto Recife APS. O Recife APS é uma iniciativa que visa aprimorar a gestão da Atenção Primária à Saúde (APS) na cidade do Recife, Pernambuco. O projeto se concentra na construção e integração de ferramentas analíticas em dois componentes fundamentais: Capitação Ponderada e Indicadores de Desempenho.
+Este repositório é dedicado à centralização de scripts SQL desenvolvidos para o projeto Recife APS. O Recife APS é uma iniciativa que visa aprimorar a gestão da Atenção Primária à Saúde (APS) na cidade do Recife, Pernambuco. O projeto se concentra na construção e integração de ferramentas analíticas em dois componentes fundamentais do programa federal Previne Brasil: Capitação Ponderada e Indicadores de Desempenho.
 
 Neste repositório, você encontrará uma coleção de scripts SQL cuidadosamente desenvolvidos para suportar as análises e processos de dados relacionados ao Recife APS. Esses scripts são uma ferramenta valiosa para profissionais de saúde, analistas de dados e gestores que desejam contribuir para o aprimoramento do sistema de saúde da cidade do Recife.
 
