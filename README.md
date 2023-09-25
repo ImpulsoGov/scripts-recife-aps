@@ -54,8 +54,4 @@ Sinta-se à vontade para contribuir em nosso projeto! Abra uma issue ou crie um 
 
 *******
 
-
-A estrutura do 
-
-
 Fique à vontade para explorar, colaborar e utilizar esses scripts para fortalecer a Atenção Primária à Saúde em Recife. Seja parte dessa iniciativa e ajude a tornar a saúde mais acessível e eficaz para todos os cidadãos da cidade. 
